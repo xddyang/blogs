@@ -1,0 +1,26 @@
+{
+  "name": "blogs",
+  "version": "1.0.0",
+  "description": "记录日常学习生活工作心得",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xddyang/blogs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xddyang/blogs/issues"
+  },
+  "homepage": "https://github.com/xddyang/blogs#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.47",
+    "vue": "^3.2.47"
+  }
+}
